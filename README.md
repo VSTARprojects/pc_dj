@@ -4,7 +4,7 @@ Django server for the Pathology Classification Project
 There are three separate components for this project:
 1. ML Model: https://github.com/VSTARprojects/pc_ml
 2. FrontEnd: https://github.com/VSTARprojects/pc_fe
-3. BackEnd: https://github.com/khssupriya/pc_dj
+3. BackEnd: https://github.com/VSTARprojects/pc_dj
 
 ## Prerequisites
 Before running the Django server, you will need the following:
