@@ -1,6 +1,8 @@
 # pc_dj
 Django server for the Pathology Classification Project
 
+Full Project Demo: https://www.loom.com/share/434f009b5d61432da6ca36f963c73f98
+
 There are three separate components for this project:
 1. ML Model: https://github.com/VSTARprojects/pc_ml
 2. FrontEnd: https://github.com/VSTARprojects/pc_fe
